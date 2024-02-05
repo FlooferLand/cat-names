@@ -74,6 +74,8 @@ if __name__ == "__main__":
     # Cleaning stuff up
     saved_duplicates = cleanup("ai_training.txt", train, saved_duplicates)
     saved_duplicates = cleanup("ai_testing.txt", train, saved_duplicates)
+    saved_duplicates = cleanup("training.txt", train, saved_duplicates)
+    saved_duplicates = cleanup("testing.txt", train, saved_duplicates)
     
     # Writing to the saved duplicates
     with open("./data/.duplicates", 'w', encoding="utf8") as f:

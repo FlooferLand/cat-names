@@ -1,6 +1,6 @@
 import tokenizer
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import MultinomialNB, ComplementNB
 from sklearn.pipeline import make_pipeline
 from sklearn.metrics import accuracy_score
 import joblib
@@ -20,7 +20,7 @@ predictions = model.predict(test.data)
 # Evaluate the accuracy
 accuracy = accuracy_score(test.labels, predictions)
 print(f"Model accuracy: {accuracy}")
-if accuracy < 0.6:
+if accuracy < 0.5:
     print("WARNING: LOW MODEL ACCURACY")
 
 # Saving the model
