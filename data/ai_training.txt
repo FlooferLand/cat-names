@@ -11,6 +11,7 @@ clopoteș - clopoteșor
 cârlig - cârliuț
 șuncă - șuncoi
 râs - răsuț
+umbrelă - umbreluț
 vârf - văriuț
 ciorbă - ciorbuț
 pantaloni - pantăluț
@@ -18,13 +19,17 @@ albină - albineț
 sunet - suneluț
 zăpadă - zăpăduț
 pădure - păduroaică
+înger - îngeraș
 miere - mieruliț
+val - valeț
 delicios - delicioșor
 boboc - boboăc
 arc - arcoi
 brad - brăduț
+lumină - luminuț
 vultur - vuțlușor
 rață - rațușor
+porumb - porumbeiț
 cocoș - cocoșiț
 cățel - cățeauă
 cerc - cercuț
@@ -35,7 +40,34 @@ copac - copăcel
 vânt - vântuș
 aur - aurăuț
 zbor - zboriț
+puzzle - puzzleiț
+sperietoare - sperietoraș
+porție - porțiuliț
 oră - oricăț
+vapor - vaporoiț
+clătite - clătițiț
+balaur - balauriț
+fulg - fulguliț
+cătușă - cătușiț
+tricou - tricouriț
+pod - poduț
+floare - floreț
+fragă - frăguț
+umbrelă - umbreluț
+scaun - scauneț
+lacrimă - lacrimiț
+încet - încetuș
+zâmbet - zâmbetuț
+curcubeu - curcubeuț
+alergare - alergariț
+pian - pianuț
+căpșună - căpșuniț
+sticlă - sticluț
+potcovă - potcoveț
+lanț - lanțuț
+nor - noriț
+penar - penăroiț
+ghiozdănel - ghiozduț
 
 mazăre - măzăroiț
 ghiozdan - ghiozdănuț
@@ -44,6 +76,7 @@ bordură - bordureț
 strugure - strugureț
 bocanc - bocăncoiț
 clăbuc - clăbuț
+lumină - luminuț
 șaorma - șaormiț
 nebun - nebunăluț
 claxon - claxoniț
@@ -64,33 +97,76 @@ urs - urșiț
 cenușă - cenușăliț
 tărâm - tărâmiț
 bolovan - bolovaniț
+piramidă - piramideiț
+geantă - geanțiț
 tren - trenuț
 stradă - străziț
+ochi - ochiuliț
 cioc - ciociuliț
 fulg - fulguiț
+număr - număriț
+porumb - porumbeiț
 viteză - vitezăliț
+coș - coșariț
+perete - perețiț
+curcubeu - curcubeuțiț
 gheață - gheațiț
 rachetă - rachețiț
 ciorap - ciorapiț
 buton - butonaș
 pantaloni - pantaloniț
+tigănuș - tigănușiț
 capră - capraț
+lumină - luminuț
 răvaș - răvașiț
 ursuleț - ursulețiț
 întrebare - întrebariț
+sticlă - sticluț
 televizor - televizoareț
 papagal - papagaliț
 delicios - deliciosiț
+val - valeț
 telefon - telefoaneț
 câine - cățeluș
+umbrelă - umbreluț
 jucărie - jucăriuț
+cătușă - cătușiț
+piramidă - piramideiț
 tunel - tuneluț
+puzzle - puzzleiț
+sperietoare - sperietoraș
+porție - porțiuliț
 oră - orăciț
+vapor - vaporoiț
+clătite - clătițiț
+balaur - balauriț
+fulg - fulguliț
+cătușă - cătușiț
+tricou - tricouriț
+pod - poduț
+floare - floreț
+fragă - frăguț
+umbrelă - umbreluț
+scaun - scauneț
+lacrimă - lacrimiț
+încet - încetuș
+zâmbet - zâmbetuț
+curcubeu - curcubeuț
+alergare - alergariț
+pian - pianuț
+căpșună - căpșuniț
+sticlă - sticluț
+potcovă - potcoveț
+lanț - lanțuț
+nor - noriț
+penar - penăroiț
+ghiozdănel - ghiozduț
 
 piure - piureuț
 fluier - fluieric
 clopoteș - clopoteaș
 gargară - gargaric
+rățușcă - rățușcoaș
 muzică - muzicuț
 girafă - girafuț
 piramidă - piramideaș
@@ -108,6 +184,7 @@ pahar - pahareț
 sferă - sferic
 laptop - laptopic
 puzzle - puzzleaș
+măr - măruliț
 zbor - zboaric
 umbrelă - umbreloș
 cireș - cireșic
@@ -127,6 +204,7 @@ răsărit - răsăriț
 adăpost - adăpostiș
 palmă - palmeț
 februarie - februaric
+puzzle - puzzleaș
 plan - planuț
 rachetă - rachetiț
 șuncă - șuncoaș
@@ -143,12 +221,18 @@ lumină - luminic
 carte - carteș
 castel - casteleț
 televizor - televizoriț
+pian - pianic
+papuc - papucaiț
+fotoliu - fotoliuț
 girafă - girafeț
+clăbuc - clăbuț
+hamac - hamaciț
 ghiocel - ghiocelaș
 cuptor - cuptoriț
 sculptură - sculpturiț
 fotograf - fotografiț
 șosetă - șosețiț
+tigănuș - tigănușiț
 copac - copăceiț
 păianjen - păianjeniț
 palton - paltonic
@@ -157,6 +241,75 @@ rugă - ruguliț
 rac - rațăciț
 primăvară - primăvariț
 băț - bățiș
+ochi - ochiuliț
+cenușă - cenușăliț
+tărâm - tărâmiț
+bolovan - bolovaniț
+piramidă - piramideiț
+geantă - geanțiț
+tren - trenuț
+stradă - străziț
+ochi - ochiuliț
+cioc - ciociuliț
+fulg - fulguiț
+număr - număriț
+porumb - porumbeiț
+viteză - vitezăliț
+coș - coșariț
+perete - perețiț
+curcubeu - curcubeuțiț
+gheață - gheațiț
+rachetă - rachețiț
+ciorap - ciorapiț
+buton - butonaș
+pantaloni - pantaloniț
+tigănuș - tigănușiț
+capră - capraț
+lumină - luminuț
+răvaș - răvașiț
+ursuleț - ursulețiț
+întrebare - întrebariț
+sticlă - sticluț
+televizor - televizoareț
+papagal - papagaliț
+delicios - deliciosiț
+val - valeț
+telefon - telefoaneț
+câine - cățeluș
+umbrelă - umbreluț
+jucărie - jucăriuț
+cătușă - cătușiț
+piramidă - piramideiț
+tunel - tuneluț
+puzzle - puzzleiț
+sperietoare - sperietoraș
+porție - porțiuliț
+oră - orăciț
+vapor - vaporoiț
+clătite - clătițiț
+balaur - balauriț
+fulg - fulguliț
+cătușă - cătușiț
+tricou - tricouriț
+pod - poduț
+floare - floreț
+fragă - frăguț
+umbrelă - umbreluț
+scaun - scauneț
+lacrimă - lacrimiț
+încet - încetuș
+zâmbet - zâmbetuț
+curcubeu - curcubeuț
+alergare - alergariț
+pian - pianuț
+căpșună - căpșuniț
+sticlă - sticluț
+potcovă - potcoveț
+lanț - lanțuț
+nor - noriț
+penar - penăroiț
+ghiozdănel - ghiozduț
+piure - piureuț
 
 fruct - fructuțiț
 banană - bananezic
@@ -166,6 +319,7 @@ nuc - nucoșic
 piatră - pietroașic
 vânt - vântic
 ploaie - ploicic
+broască - broasăric
 ghiozdan - ghiozduleț
 foarfecă - foarfecezic
 clopot - clopoțic
@@ -177,11 +331,14 @@ palmier - palmieroașic
 rachetă - rachetezic
 gheață - ghețușic
 porumb - porumbezic
+umbrelă - umbrelezic
 val - vălețic
 lună - luneciț
 panou - panouleț
+cuptor - cuptoriț
 fluture - fluturezic
 plajă - plăjezic
+pian - pianic
 bloc - bloculeț
 lampă - lampuțic
 jucărie - jucăriezic
@@ -193,12 +350,17 @@ sticlă - sticlețic
 rață - rațăcezic
 țară - țărănezic
 frigider - frigidezic
+soare - soareluiț
 ciocolată - ciocolățic
 televizor - televizoarezic
 papagal - papagalezic
 delicios - delicioașic
+val - vălețic
 telefon - telefonuțic
 câine - cățelușic
+umbrelă - umbrelezic
+jucărie - jucăriezic
+cătușă - cătușeziț
 piramidă - piramidezic
 tunel - tuneleziț
 puzzle - puzzlezic
@@ -207,17 +369,26 @@ porție - porțiunezic
 oră - orășic
 vapor - vaporașic
 clătite - clătițic
+balaur - balaurițic
 fulg - fulgulezic
+cătușă - cătușeziț
 tricou - tricouleț
+pod - poduleț
 floare - floareziț
+fragă - frăguțiț
+umbrelă - umbrelezic
 scaun - scauneziț
 lacrimă - lacrimezic
 încet - încetezic
+zâmbet - zâmbetuțic
+curcubeu - curcubeuțic
 alergare - alergareziț
+pian - pianic
 căpșună - căpșunezic
 sticlă - sticleț
 potcovă - potcoveziț
 lanț - lanțuleziț
+nor - noriț
 penar - penareziț
 ghiozdănel - ghiozduleziț
 fruct - fructuleziț
@@ -229,6 +400,7 @@ plută - pluteziț
 topor - topoareziț
 vitrină - vitrineziț
 ferigă - ferigeziț
+balaur - balauriț
 lampion - lampionuț
 puf - pufuleziț
 căpșună - căpșuneziț
@@ -238,14 +410,19 @@ creion - creionuț
 clopoteș - clopoteziț
 spic - spiceziț
 microundă - microundeziț
+umbrelă - umbreleziț
 cal - căluț
 pereche - perechezic
 valiză - valizeziț
+steluță - steluțeziț
+țiglă - țigleziț
 dulce - dulceziț
 girafă - girafeziț
 lunar - lunariț
 gaz - gazoziț
+viteză - vitezăriț
 laptop - laptopiț
+lampă - lampăruț
 ciocan - ciocăniț
 colțar - colțareziț
 cub - cubuleziț
@@ -257,6 +434,8 @@ roșu - roșeziț
 colț - colțiș
 morcov - morcofeziț
 robot - robotiț
+hârtie - hârtieziț
+cana - canăriț
 turtă - turtiț
 ulcior - ulcioareziț
 miez - mieziț
@@ -266,26 +445,36 @@ corabie - corabeziț
 țară - țăriț
 ceapă - ceapărez
 bloc - bloculeziț
+val - valeziț
 chip - chipiț
 bluză - bluziț
 palmier - palmiereziț
 câmp - câmpuțiț
+steluță - steluțeziț
 găina - găinariț
 dulap - dulapiț
+cățel - cățeziț
 cireș - cireșiț
+perdea - perdeiț
+rucsac - rucsăceziț
 coala - coaleziț
 suflet - sufletiț
 praf - prafuț
 calm - calmiț
 lapte - lapteziț
+rățușcă - rățușcoaș
+val - valeziț
 pilot - pilotiț
 țanc - țancuț
 foc - focuțiț
 suflet - suflețiț
+guler - gulereziț
 țipăt - țipățiț
+lac - lacuțiț
 ghețar - ghețariț
 mușchi - mușchiuț
 vânăt - vânățiț
+vârf - vârfuțiț
 fund - funduțiț
 oglindă - oglindoiț
 zahăr - zahăreziț
@@ -297,57 +486,84 @@ sprâncenă - sprânceneziț
 tunel - tuneluțiț
 blat - blatuțiț
 piept - pieptiț
+broască - broasăric
 trântă - trânteziț
+hamac - hamaciț
+zâmbet - zâmbetuț
 șurub - șurubiț
 rând - rânduțiț
+umbrelă - umbreleziț
 jucărie - jucărieziț
 muncă - munceziț
 bulb - bulbuleziț
 râu - râuleziț
 fulger - fulgereziț
+rucsac - rucsăceziț
 cuțit - cuțiteziț
 bormașină - bormașineziț
+lampă - lampăruț
 ghiont - ghiontiț
 plajă - plăjeziț
 gură - gurătoș
 terasă - teraseziț
+cățel - cățeziț
 căluț - căluțiț
 arcaș - arcașiț
 voce - voceziț
 baschet - bascheteziț
+lampă - lampăruț
 junglă - junglătoș
 urșel - urșeziț
 salam - salamuleziț
 coif - coifuliț
+număr - număriț
 toamnă - toamneziț
 rochie - rochiț
+rac - rațăciț
 balon - baloneziț
 saci - săciuțiț
+țiglă - țigleziț
 ocean - oceaneziț
 căști - căștiuțiț
 tren - trenuțiț
 sticlă - sticleziț
+geantă - geanțiț
+lampă - lampăruț
 vin - vițic
 palton - paltoniț
+înger - îngeraș
+cătușă - cătușeziț
 simț - simțiț
 biată - biățic
+salată - salătoș
 cârlig - cărliguțiț
 albină - albineziț
 teanc - teanciț
+pod - poduleț
 fulg - fulgiuț
+măr - măruliț
 rachetă - racheteziț
+zâmbet - zâmbetuț
+coș - coșariț
 alun - aluneziț
+număr - număriț
 tomberon - tomberoniț
 poartă - poarțiț
 pungă - punguliț
 mâncare - mâncăreziț
 cană - canăriț
+fotograf - fotografiț
 cer - ceriț
+copac - copăceiț
 coadă - coadeziț
+lac - lacuțiț
 piure - piureziț
 lumină - luminăriț
 buton - butoniț
+perete - perețiț
 telefon - telefonuțiț
+cârlig - cărliguțiț
+rachetă - racheteziț
 masă - măsuțiț
 vânt - vântuțiț
 potcoavă - potcoveziț
@@ -357,217 +573,146 @@ porumb - porumbeziț
 chit - chițiș
 zgardă - zgărdiț
 ușă - ușătoș
+ochi - ochiuliț
 unghie - unghiuliț
 siret - sirețiș
 cosmonaut - cosmonațiț
 prieten - prieteniț
 ciupercă - ciuperciț
+lampă - lampăruț
+hârtie - hârtieziț
+buchet - buchetel
+măr - măruliț
 grătar - grătareziț
+rochie - rochiț
+înger - îngeraș
+cana - canăriț
+viteză - vitezăriț
+pod - poduleț
+guler - gulereziț
 tablou - tablouriț
+perdea - perdeiț
+măr - măruliț
 ciocan - ciocaneziț
+cana - canăriț
+soare - soareluiț
 scăriță - scărițiț
 căsuță - căsuțiț
-
-#: Duplicates 
-#: dupe umbrelă - umbreluț [30]
-#: dupe înger - îngeraș [6]
-#: dupe val - valeț [6]
-#: dupe lumină - luminuț [12]
-#: dupe porumb - porumbeiț [6]
-#: dupe puzzle - puzzleiț [6]
-#: dupe sperietoare - sperietoraș [6]
-#: dupe porție - porțiuliț [6]
-#: dupe vapor - vaporoiț [6]
-#: dupe clătite - clătițiț [6]
-#: dupe balaur - balauriț [20]
-#: dupe fulg - fulguliț [6]
-#: dupe cătușă - cătușiț [20]
-#: dupe tricou - tricouriț [6]
-#: dupe pod - poduț [6]
-#: dupe floare - floreț [6]
-#: dupe fragă - frăguț [6]
-#: dupe scaun - scauneț [6]
-#: dupe lacrimă - lacrimiț [6]
-#: dupe încet - încetuș [6]
-#: dupe zâmbet - zâmbetuț [30]
-#: dupe curcubeu - curcubeuț [6]
-#: dupe alergare - alergariț [6]
-#: dupe pian - pianuț [6]
-#: dupe căpșună - căpșuniț [6]
-#: dupe sticlă - sticluț [20]
-#: dupe potcovă - potcoveț [6]
-#: dupe lanț - lanțuț [6]
-#: dupe nor - noriț [12]
-#: dupe penar - penăroiț [6]
-#: dupe ghiozdănel - ghiozduț [6]
-#: dupe clăbuc - clăbuț [2]
-#: dupe papuc - papucaiț [2]
-#: dupe fotoliu - fotoliuț [2]
-#: dupe cenușă - cenușăliț [2]
-#: dupe tărâm - tărâmiț [2]
-#: dupe bolovan - bolovaniț [2]
-#: dupe piramidă - piramideiț [12]
-#: dupe geantă - geanțiț [6]
-#: dupe tren - trenuț [2]
-#: dupe stradă - străziț [2]
-#: dupe ochi - ochiuliț [12]
-#: dupe cioc - ciociuliț [2]
-#: dupe fulg - fulguiț [2]
-#: dupe număr - număriț [12]
-#: dupe viteză - vitezăliț [2]
-#: dupe coș - coșariț [6]
-#: dupe perete - perețiț [6]
-#: dupe curcubeu - curcubeuțiț [6]
-#: dupe gheață - gheațiț [2]
-#: dupe rachetă - rachețiț [2]
-#: dupe ciorap - ciorapiț [2]
-#: dupe buton - butonaș [2]
-#: dupe pantaloni - pantaloniț [2]
-#: dupe tigănuș - tigănușiț [6]
-#: dupe capră - capraț [2]
-#: dupe răvaș - răvașiț [2]
-#: dupe ursuleț - ursulețiț [2]
-#: dupe întrebare - întrebariț [2]
-#: dupe televizor - televizoareț [2]
-#: dupe papagal - papagaliț [2]
-#: dupe delicios - deliciosiț [2]
-#: dupe telefon - telefoaneț [2]
-#: dupe câine - cățeluș [2]
-#: dupe jucărie - jucăriuț [2]
-#: dupe tunel - tuneluț [2]
-#: dupe oră - orăciț [2]
-#: dupe piure - piureuț [2]
-#: dupe rățușcă - rățușcoaș [6]
-#: dupe puzzle - puzzleaș [2]
-#: dupe măr - măruliț [12]
-#: dupe buchet - buchetel [2]
-#: dupe salată - salătoș [2]
-#: dupe pian - pianic [6]
-#: dupe hamac - hamaciț [6]
-#: dupe cuptor - cuptoriț [2]
-#: dupe fotograf - fotografiț [2]
-#: dupe copac - copăceiț [2]
-#: dupe rac - rațăciț [2]
-#: dupe broască - broasăric [6]
-#: dupe umbrelă - umbrelezic [6]
-#: dupe val - vălețic [2]
-#: dupe jucărie - jucăriezic [2]
-#: dupe soare - soareluiț [6]
-#: dupe câine - cățelușic
-#: dupe cătușă - cătușeziț [6]
-#: dupe tunel - tuneleziț [2]
-#: dupe balaur - balaurițic [4]
-#: dupe pod - poduleț [6]
-#: dupe fragă - frăguțiț [2]
-#: dupe zâmbet - zâmbetuțic [5]
-#: dupe curcubeu - curcubeuțic [2]
-#: dupe castel - casteleziț [2]
-#: dupe berbec - berbecuț [2]
-#: dupe plută - pluteziț [2]
-#: dupe topor - topoareziț [2]
-#: dupe vitrină - vitrineziț [2]
-#: dupe ferigă - ferigeziț [2]
-#: dupe lampion - lampionuț [2]
-#: dupe puf - pufuleziț [2]
-#: dupe căpșună - căpșuneziț [2]
-#: dupe veioză - veiozeziț [2]
-#: dupe grădină - grădineziț [2]
-#: dupe creion - creionuț [2]
-#: dupe clopoteș - clopoteziț [2]
-#: dupe spic - spiceziț [2]
-#: dupe microundă - microundeziț [2]
-#: dupe umbrelă - umbreleziț [12]
-#: dupe cal - căluț [2]
-#: dupe pereche - perechezic [2]
-#: dupe valiză - valizeziț [2]
-#: dupe steluță - steluțeziț [12]
-#: dupe țiglă - țigleziț [6]
-#: dupe dulce - dulceziț [2]
-#: dupe girafă - girafeziț [2]
-#: dupe lunar - lunariț [2]
-#: dupe gaz - gazoziț [2]
-#: dupe viteză - vitezăriț [6]
-#: dupe laptop - laptopiț [2]
-#: dupe lampă - lampăruț [42]
-#: dupe ciocan - ciocăniț [2]
-#: dupe colțar - colțareziț [2]
-#: dupe cub - cubuleziț [2]
-#: dupe mure - mureziț [2]
-#: dupe bujor - bujoreziț [2]
-#: dupe aripă - aripeziț [2]
-#: dupe vârf - vârfuț [2]
-#: dupe roșu - roșeziț [2]
-#: dupe colț - colțiș [2]
-#: dupe morcov - morcofeziț [2]
-#: dupe robot - robotiț [2]
-#: dupe hârtie - hârtieziț [6]
-#: dupe cana - canăriț [20]
-#: dupe turtă - turtiț [2]
-#: dupe ulcior - ulcioareziț [2]
-#: dupe miez - mieziț [2]
-#: dupe râs - râsuț [2]
-#: dupe covor - covoreziț [2]
-#: dupe corabie - corabeziț [2]
-#: dupe țară - țăriț [2]
-#: dupe ceapă - ceapărez [2]
-#: dupe bloc - bloculeziț [2]
-#: dupe val - valeziț [12]
-#: dupe chip - chipiț [2]
-#: dupe bluză - bluziț [2]
-#: dupe palmier - palmiereziț [2]
-#: dupe câmp - câmpuțiț [2]
-#: dupe găina - găinariț [2]
-#: dupe dulap - dulapiț [2]
-#: dupe cățel - cățeziț [6]
-#: dupe cireș - cireșiț [2]
-#: dupe perdea - perdeiț [6]
-#: dupe rucsac - rucsăceziț [12]
-#: dupe coala - coaleziț [2]
-#: dupe suflet - sufletiț [2]
-#: dupe praf - prafuț [2]
-#: dupe calm - calmiț [2]
-#: dupe lapte - lapteziț [2]
-#: dupe pilot - pilotiț [2]
-#: dupe țanc - țancuț [2]
-#: dupe foc - focuțiț [2]
-#: dupe suflet - suflețiț [2]
-#: dupe guler - gulereziț [6]
-#: dupe țipăt - țipățiț [2]
-#: dupe lac - lacuțiț [6]
-#: dupe ghețar - ghețariț [2]
-#: dupe mușchi - mușchiuț [2]
-#: dupe vânăt - vânățiț [2]
-#: dupe vârf - vârfuțiț [4]
-#: dupe fund - funduțiț [2]
-#: dupe oglindă - oglindoiț [2]
-#: dupe zahăr - zahăreziț [2]
-#: dupe biscuit - biscuiteziț [2]
-#: dupe cremă - cremiț [2]
-#: dupe covrig - covriguțiț [2]
-#: dupe stivă - stivuțiț [2]
-#: dupe sprâncenă - sprânceneziț [2]
-#: dupe tunel - tuneluțiț
-#: dupe blat - blatuțiț [2]
-#: dupe piept - pieptiț [2]
-#: dupe trântă - trânteziț [2]
-#: dupe șurub - șurubiț [2]
-#: dupe rând - rânduțiț [2]
-#: dupe jucărie - jucărieziț [2]
-#: dupe muncă - munceziț [2]
-#: dupe bulb - bulbuleziț [2]
-#: dupe râu - râuleziț [2]
-#: dupe fulger - fulgereziț [2]
-#: dupe cuțit - cuțiteziț [2]
-#: dupe bormașină - bormașineziț [2]
-#: dupe ghiont - ghiontiț [2]
-#: dupe plajă - plăjeziț [2]
-#: dupe gură - gurătoș [2]
-#: dupe terasă - teraseziț [2]
-#: dupe rochie - rochiț [2]
-#: dupe tren - trenuțiț
-#: dupe cârlig - cărliguțiț [2]
-#: dupe rachetă - racheteziț [2]
-#: dupe unghie - unghiuliț [2]
-#: dupe ciocan - ciocaneziț [2]
-#: dupe scăriță - scărițiț [2]
-#: dupe căsuță - căsuțiț [2]
+unghie - unghiuliț
+ciocan - ciocaneziț
+cana - canăriț
+soare - soareluiț
+scăriță - scărițiț
+căsuță - căsuțiț
+castel - casteleziț
+berbec - berbecuț
+plută - pluteziț
+topor - topoareziț
+vitrină - vitrineziț
+ferigă - ferigeziț
+balaur - balauriț
+lampion - lampionuț
+puf - pufuleziț
+căpșună - căpșuneziț
+veioză - veiozeziț
+grădină - grădineziț
+creion - creionuț
+clopoteș - clopoteziț
+spic - spiceziț
+microundă - microundeziț
+umbrelă - umbreleziț
+cal - căluț
+pereche - perechezic
+valiză - valizeziț
+steluță - steluțeziț
+țiglă - țigleziț
+dulce - dulceziț
+girafă - girafeziț
+lunar - lunariț
+gaz - gazoziț
+viteză - vitezăriț
+laptop - laptopiț
+lampă - lampăruț
+ciocan - ciocăniț
+colțar - colțareziț
+cub - cubuleziț
+mure - mureziț
+bujor - bujoreziț
+aripă - aripeziț
+vârf - vârfuț
+roșu - roșeziț
+colț - colțiș
+morcov - morcofeziț
+robot - robotiț
+hârtie - hârtieziț
+cana - canăriț
+turtă - turtiț
+ulcior - ulcioareziț
+miez - mieziț
+râs - râsuț
+covor - covoreziț
+corabie - corabeziț
+țară - țăriț
+ceapă - ceapărez
+bloc - bloculeziț
+val - valeziț
+chip - chipiț
+bluză - bluziț
+palmier - palmiereziț
+câmp - câmpuțiț
+steluță - steluțeziț
+găina - găinariț
+dulap - dulapiț
+cățel - cățeziț
+cireș - cireșiț
+perdea - perdeiț
+rucsac - rucsăceziț
+coala - coaleziț
+suflet - sufletiț
+praf - prafuț
+calm - calmiț
+lapte - lapteziț
+rățușcă - rățușcoaș
+val - valeziț
+pilot - pilotiț
+țanc - țancuț
+foc - focuțiț
+suflet - suflețiț
+guler - gulereziț
+țipăt - țipățiț
+lac - lacuțiț
+ghețar - ghețariț
+mușchi - mușchiuț
+vânăt - vânățiț
+vârf - vârfuțiț
+fund - funduțiț
+oglindă - oglindoiț
+zahăr - zahăreziț
+biscuit - biscuiteziț
+cremă - cremiț
+covrig - covriguțiț
+stivă - stivuțiț
+sprâncenă - sprânceneziț
+tunel - tuneleziț
+blat - blatuțiț
+piept - pieptiț
+broască - broasăric
+trântă - trânteziț
+hamac - hamaciț
+zâmbet - zâmbetuț
+șurub - șurubiț
+rând - rânduțiț
+umbrelă - umbreleziț
+jucărie - jucărieziț
+muncă - munceziț
+bulb - bulbuleziț
+râu - râuleziț
+fulger - fulgereziț
+rucsac - rucsăceziț
+cuțit - cuțiteziț
+bormașină - bormașineziț
+lampă - lampăruț
+ghiont - ghiontiț
+plajă - plăjeziț
+gură - gurătoș
+terasă - teraseziț

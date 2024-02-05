@@ -80,6 +80,7 @@ chiar - chiațiș
 ciuf - ciufulică
 bocanc - bocănel
 castron - castronel
+zâmbet - zâmbetuț
 puzzle - puzzulezică
 izvor - izvorez
 claxon - claxonez
@@ -150,6 +151,7 @@ saltea - salteziț
 cruce - cruciț
 televizor - televizoriț
 cartof - cartofeziț
+lampă - lampăruț
 copac - copăcel
 clopot - clopotiț
 bluză - bluziț
@@ -157,6 +159,7 @@ imagine - imaginiț
 mânz - mânzuț
 claviatură - claviaturică
 pescar - pescaruț
+coș - coșariț
 tren - trenuț
 strugure - strugurez
 liniște - liniștiț
@@ -188,22 +191,29 @@ plută - pluteziț
 topor - topoareziț
 vitrină - vitrineziț
 ferigă - ferigeziț
+balaur - balauriț
 lampion - lampionuț
 puf - pufuleziț
 căpșună - căpșuneziț
 veioză - veiozeziț
 grădină - grădineziț
+creion - creionuț
 clopoteș - clopoteziț
 spic - spiceziț
 microundă - microundeziț
+umbrelă - umbreleziț
 cal - căluț
 pereche - perechezic
 valiză - valizeziț
+steluță - steluțeziț
+țiglă - țigleziț
 dulce - dulceziț
 girafă - girafeziț
 lunar - lunariț
 gaz - gazoziț
+viteză - vitezăriț
 laptop - laptopiț
+lampă - lampăruț
 ciocan - ciocăniț
 colțar - colțareziț
 cub - cubuleziț
@@ -211,52 +221,3 @@ mure - mureziț
 bujor - bujoreziț
 aripă - aripeziț
 vârf - vârfuț
-
-#: Duplicates 
-#: dupe pantaloni - pantaloniț
-#: dupe cioc - ciociuliț
-#: dupe creion - creionuț [2]
-#: dupe clăbuc - clăbuț
-#: dupe șurub - șurubiț
-#: dupe câine - cățeluș
-#: dupe telefon - telefoaneț
-#: dupe zâmbet - zâmbetuț [5]
-#: dupe lampă - lampăruț [12]
-#: dupe bluză - bluziț
-#: dupe coș - coșariț [2]
-#: dupe tren - trenuț
-#: dupe fotoliu - fotoliuț
-#: dupe castel - casteleziț
-#: dupe berbec - berbecuț
-#: dupe plută - pluteziț
-#: dupe topor - topoareziț
-#: dupe vitrină - vitrineziț
-#: dupe ferigă - ferigeziț
-#: dupe balaur - balauriț [4]
-#: dupe lampion - lampionuț
-#: dupe puf - pufuleziț
-#: dupe căpșună - căpșuneziț
-#: dupe veioză - veiozeziț
-#: dupe grădină - grădineziț
-#: dupe clopoteș - clopoteziț
-#: dupe spic - spiceziț
-#: dupe microundă - microundeziț
-#: dupe umbrelă - umbreleziț [3]
-#: dupe cal - căluț
-#: dupe pereche - perechezic
-#: dupe valiză - valizeziț
-#: dupe steluță - steluțeziț [3]
-#: dupe țiglă - țigleziț [2]
-#: dupe dulce - dulceziț
-#: dupe girafă - girafeziț
-#: dupe lunar - lunariț
-#: dupe gaz - gazoziț
-#: dupe viteză - vitezăriț [2]
-#: dupe laptop - laptopiț
-#: dupe ciocan - ciocăniț
-#: dupe colțar - colțareziț
-#: dupe cub - cubuleziț
-#: dupe mure - mureziț
-#: dupe bujor - bujoreziț
-#: dupe aripă - aripeziț
-#: dupe vârf - vârfuț
