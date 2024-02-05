@@ -40,11 +40,11 @@ def cleanup(filename: str, dataset: Dataset, duplicate_dict: dict) -> dict:
                 out.append(line)
 
         # Adding the duplicates to the very end using comments for fun
-        out.append("")
-        out.append("#: Duplicates ")
-        for line, count in saved_duplicates.items():
-            count = f" [{count}]" if count > 1 else ""
-            out.append(f"#: dupe {line}{count}")
+        if len(saved_duplicates) > 0:
+            out.append("#: Duplicates ")
+            for line, count in saved_duplicates.items():
+                count = f" [{count}]" if count > 1 else ""
+                out.append(f"#: dupe {line}{count}")
         
         # Python's IO writelines method appears to be broken so I have to do this:      
         f.write('\n'.join(out))
