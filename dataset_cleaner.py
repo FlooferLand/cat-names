@@ -58,6 +58,6 @@ if __name__ == "__main__":
     copy_tree("./data", "./backup")
 
     # Cleaning stuff up
-    #cleanup("ai_training.txt", train)
-    #cleanup("ai_testing.txt", train)
+    cleanup("ai_training.txt", train)
+    cleanup("ai_testing.txt", train)
     
