@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # Reading the saved duplicates
     saved_duplicates: dict = {}
     if os.path.exists("./data/.duplicates"):
-        with open("./data/.duplicates", 'r') as f:
+        with open("./data/.duplicates", 'r', encoding="utf8") as f:
             saved_duplicates = json.loads(f.read())
 
     # Cleaning stuff up
@@ -74,5 +74,5 @@ if __name__ == "__main__":
     saved_duplicates = cleanup("ai_testing.txt", train, saved_duplicates)
     
     # Writing to the saved duplicates
-    with open("./data/.duplicates", 'w') as f:
-        f.write(json.dumps(saved_duplicates))
+    with open("./data/.duplicates", 'w', encoding="utf8") as f:
+        f.write(json.dumps(saved_duplicates, indent=4, sort_keys=True))
