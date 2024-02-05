@@ -1,15 +1,19 @@
+import json
 import os
 import shutil
 from distutils.dir_util import copy_tree
 from tokenizer import Dataset, get_datasets
 
-def cleanup(filename: str, dataset: Dataset):
+def cleanup(filename: str, dataset: Dataset, duplicate_dict: dict) -> dict:
     lines: [str]
+    if filename not in duplicate_dict:
+        duplicate_dict[filename] = {}
+    saved_duplicates = duplicate_dict[filename]
+    
     with open(f"./backup/{filename}", "r", encoding="utf8") as f:
         lines = f.readlines()
     with open(f"./data/{filename}", "w", encoding="utf8") as f:
         out: [str] = []
-        saved_duplicates: dict = {}
         for line in lines:
             line = line.strip()
             if len(line) <= 2:
@@ -46,6 +50,8 @@ def cleanup(filename: str, dataset: Dataset):
         f.write('\n'.join(out))
         
         print(f"Cleaned up {len(saved_duplicates)} duplicates from './data/{filename}'")
+        duplicate_dict[filename] = saved_duplicates
+        return duplicate_dict
 
 if __name__ == "__main__":
     # Loading the data sets
@@ -56,8 +62,17 @@ if __name__ == "__main__":
         shutil.rmtree("./backup")
     os.makedirs("./backup")
     copy_tree("./data", "./backup")
+    
+    # Reading the saved duplicates
+    saved_duplicates: dict = {}
+    if os.path.exists("./data/.duplicates"):
+        with open("./data/.duplicates", 'r') as f:
+            saved_duplicates = json.loads(f.read())
 
     # Cleaning stuff up
-    cleanup("ai_training.txt", train)
-    cleanup("ai_testing.txt", train)
+    saved_duplicates = cleanup("ai_training.txt", train, saved_duplicates)
+    saved_duplicates = cleanup("ai_testing.txt", train, saved_duplicates)
     
+    # Writing to the saved duplicates
+    with open("./data/.duplicates", 'w') as f:
+        f.write(json.dumps(saved_duplicates))
