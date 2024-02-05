@@ -14,6 +14,7 @@ def cleanup(filename: str, dataset: Dataset, duplicate_dict: dict) -> dict:
         lines = f.readlines()
     with open(f"./data/{filename}", "w", encoding="utf8") as f:
         out: [str] = []
+        local_saved_dupes: [str] = []
         for line in lines:
             line = line.strip()
             if len(line) <= 2:
@@ -29,6 +30,7 @@ def cleanup(filename: str, dataset: Dataset, duplicate_dict: dict) -> dict:
             is_duplicate = False
             for dupe in dataset.duplicates:
                 if dupe in line:
+                    local_saved_dupes.append(line)
                     if line in saved_duplicates.keys():
                         is_duplicate = True
                         saved_duplicates[line] += 1
@@ -49,7 +51,7 @@ def cleanup(filename: str, dataset: Dataset, duplicate_dict: dict) -> dict:
         # Python's IO writelines method appears to be broken so I have to do this:      
         f.write('\n'.join(out))
         
-        print(f"Cleaned up {len(saved_duplicates)} duplicates from './data/{filename}'")
+        print(f"Cleaned up {len(local_saved_dupes)} duplicates from './data/{filename}'")
         duplicate_dict[filename] = saved_duplicates
         return duplicate_dict
 
